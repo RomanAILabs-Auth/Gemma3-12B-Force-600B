@@ -34,11 +34,12 @@ This module is optimized for high-density reasoning on consumer hardware:
 
 1.  Ensure [Ollama](https://ollama.com) is running locally with `gemma3:12b`.
 2.  Set your environment variable: `export OLLAMA_MODEL="gemma3:12b"`.
-3.  Run the engine:
+3.  Extract the zip
+4.  Run the engine:
     ```bash
-    python3 omega_core_max.py
+    python3 romanai-ollama-v5.py
     ```
-4.  Use `/debug` in the CLI to view real-time entropy and confidence forensics.
+5.  Use `/debug` in the CLI to view real-time entropy and confidence forensics.
 
 ## ⚖️ License
 Distributed under the **MIT License**. See `LICENSE` for more information.
