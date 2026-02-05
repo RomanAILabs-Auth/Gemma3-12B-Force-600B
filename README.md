@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Model: Gemma3-12B](https://img.shields.io/badge/Base_Model-Gemma3--12B-blue)](https://ollama.com)
 [![Logic Density: 600B+](https://img.shields.io/badge/Effective_Parameters-600B%2B-red)](https://github.com/DanielHarding/RomanAILabs)
-
+romanailabs@gmail.com
 > **"Pure Systems Engineering + Extreme Compute Amplification."**
 
 Force a small model (12B) to behave like a 600B+ class system by massively multiplying independent reasoning mass through a hyper-layered parallel lattice.
