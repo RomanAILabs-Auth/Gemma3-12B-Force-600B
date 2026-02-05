@@ -1,4 +1,4 @@
-# 🏛️ Roman AI — OMEGA CORE MAX (20/10)
+# 🏛️ Roman AI — FLUFF CORE MAX (20/10)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Model: Gemma3-12B](https://img.shields.io/badge/Base_Model-Gemma3--12B-blue)](https://ollama.com)
